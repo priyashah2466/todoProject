@@ -1,0 +1,89 @@
+
+
+h1{
+    margin-left: 0px;
+    padding-top: 3px;
+    font-family: "Franklin Gothic Medium";
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 50px;
+    background-color: #fff3c9;
+}
+
+h2{
+
+    font-size: 35px;
+
+    text-align: left;
+
+
+}
+p{
+
+    font-size: x-large;
+    color:blue;
+    text-decoration: underline;
+    text-align: right;
+}
+div{
+    font-size: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+div1{
+    font-size: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color : red;
+    text-decoration : line-through;
+}
+div2{
+    font-size: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color : #12cb32;
+    text-decoration : line-through;
+}
+
+div{
+    font-size: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color : #2d66cb;
+
+}
+/*
+
+Rule - Selector, Descriptor
+
+*/
+
+.breathVertical {
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+
+.breathHorizontal {
+    margin-left:5px;
+    margin-right:5px;
+}
+
+div.todoStatusACTIVE {
+
+    color : blue;
+}
+
+
+div.todoStatusCOMPLETE{
+    color : green;
+    text-decoration : line-through;
+}
+
+div.todoStatusDELETED {
+    color : red;
+    text-decoration : line-through;
+
+}
+
